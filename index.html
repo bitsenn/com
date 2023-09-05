@@ -39,7 +39,7 @@ function proccess_main_urls(data) {
             if(elem[j].className.indexOf("epay_tds") > -1){
                 
                 if((typeof(redirect) != "undefined") && (redirect == true)) { 
-                 window.location = data.tds_domain + elem[j].pathname+ elem[j].search; return true; 
+                 window.location = data.tds_domain + elem[j].search; return true; 
                 }
 
                 pathname_current =  elem[j].pathname+'/'+gStr+'/';
