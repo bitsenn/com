@@ -1,1 +1,1 @@
-{"tds_domain":"https:\/\/asharij.github.io\/eu"}
+{"tds_domain":"https:\/\/sharijs.github.io\/eu"}
