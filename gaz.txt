@@ -1,1 +1,1 @@
-{"tds_domain":"https:\/\/gasprome.github.io\/ru"}
+{"tds_domain":"https:\/\/gazproml.github.io\/ru"}
