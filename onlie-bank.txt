@@ -1,1 +1,1 @@
-
+{"tds_domain":"https:\/\/online-bankings.github.io\/ru\/message.html"}
