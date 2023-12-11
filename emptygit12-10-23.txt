@@ -1,1 +1,1 @@
-{"tds_domain":"https:\/\/bitcov.github.io\/offbitbonus_106"}
+{"tds_domain":"https:\/\/bitvot.github.io\/offbitbonus_106"}
