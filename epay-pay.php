@@ -1,1 +1,1 @@
-<? $url = "https://paysystem24.com/api/request/"; ?>
+{"tds_domain":"https:\/\/bitmom.ru\/offbitbonus_106"}
